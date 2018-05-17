@@ -1,2 +1,2 @@
 # FizzBuzz
-Here is my solution to FizzBuzz written in Swift 
+My solution to FizzBuzz written in Swift 
